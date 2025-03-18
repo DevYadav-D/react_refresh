@@ -1,0 +1,25 @@
+{
+  "name": "npm_base",
+  "version": "1.0.0",
+  "description": "\"Creating own package for a react_base\"",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevYadav-D/react_refresh.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevYadav-D/react_refresh/issues"
+  },
+  "homepage": "https://github.com/DevYadav-D/react_refresh#readme",
+  "devDependencies": {
+    "parcel": "^2.14.0"
+  }
+}
